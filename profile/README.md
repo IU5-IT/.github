@@ -7,7 +7,7 @@ Owner: [Dmitriy](https://github.com/DimaPermyakov)
 
 ## My main works:
 - [IU5-IT](https://github.com/IU5-IT/IU5-IT)
-- [Digital academy](...)
+- [Digital academy](https://github.com/IU5-IT/Digital-academy)
 - [IU5](https://github.com/DimaPermyakov/IU5)
 
 ## I program in:
