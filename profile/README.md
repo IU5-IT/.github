@@ -2,7 +2,7 @@
 ![GitHub](https://img.shields.io/github/license/DimaPermyakov/IU5?color=brightgreen)
 
 
-Owner: [Dmitriy](https://github.com/DimaPermyakov)
+Owner: [Dmitriy](https://github.com/mightyK1ngRichard)
 
 
 ## My main works:
