@@ -8,7 +8,9 @@ Owner: [Dmitriy](https://github.com/mightyK1ngRichard)
 ## My main works:
 - [IU5-IT](https://github.com/IU5-IT/IU5-IT)
 - [Digital academy](https://github.com/IU5-IT/Digital-academy)
+- [BMSTU-Acquaintances](https://github.com/IU5-BOT/BMSTU-Acquaintances)
 - [IU5](https://github.com/DimaPermyakov/IU5)
+- [IU5-BOT](https://github.com/IU5-BOT)
 
 ## I program in:
 [![MacOS](https://img.shields.io/badge/MacOS-090909?style=flat-square&logo=apple&logoColor=ffffff)]()
