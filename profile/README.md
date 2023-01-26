@@ -8,6 +8,7 @@ Owner: [Dmitriy](https://github.com/mightyK1ngRichard)
 ## My learning repositories:
 - [IU5-IT](https://github.com/IU5-IT/IU5-IT)
 - [Digital academy](https://github.com/IU5-IT/Digital-academy)
+- [Metaclass](https://github.com/IU5-IT/Metaclass)
 - [IU5](https://github.com/DimaPermyakov/IU5)
 - [IU5-BOT](https://github.com/IU5-BOT)
 
