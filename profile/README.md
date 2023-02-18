@@ -1,7 +1,4 @@
 # Welcome to the educational It-world at BMSTU 2021-2025.
-![GitHub](https://img.shields.io/github/license/DimaPermyakov/IU5?color=brightgreen)
-
-
 Owner: [Dmitriy](https://github.com/mightyK1ngRichard)
 
 
